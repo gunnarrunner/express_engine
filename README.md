@@ -1,2 +1,2 @@
 # express_engine
-A version of rails engine on express,js
+A version of rails engine on express.js
